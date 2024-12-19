@@ -14,5 +14,6 @@ Refer to the [examples folder](examples/) for practical usage of the library.
 
 ## Author
 Juan José Londoño
+
 Email: [Juan José Londoño](mailto:jjlondonocarrillo@gmail.com)
 
