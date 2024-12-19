@@ -4,7 +4,7 @@ This folder contains examples that demonstrate how to use the MCP4132 library. E
 
 ## Examples Included
 
-### 1. `basic_usage`
+### 1. `Basic-usage`
 This example demonstrates the basic functionality of the MCP4132 library, including:
 - Configuring the MCP4132 for SPI communication.
 - Reading the initial resistance and wiper position.
