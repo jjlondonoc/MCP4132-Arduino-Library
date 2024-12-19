@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map MCP4132
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCP4132    KEYWORD1   MCP4132
+Resistance KEYWORD1   Resistance
+Register   KEYWORD1   Register
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+configure            KEYWORD2
+increase             KEYWORD2
+decrease             KEYWORD2
+reset                KEYWORD2
+setResistance        KEYWORD2
+disableWiper         KEYWORD2
+enableWiper          KEYWORD2
+disableTerminal      KEYWORD2
+enableTerminal       KEYWORD2
+getResistance        KEYWORD2
+getWiperPosition     KEYWORD2
+isShutDownMode       KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MODEL_5K   LITERAL1
+MODEL_10K  LITERAL1
+MODEL_50K  LITERAL1
+MODEL_100K LITERAL1

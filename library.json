@@ -1,0 +1,28 @@
+{
+    "name": "MCP4132",
+    "keywords": ["MCP4132", "digital potentiometer", "resistor network", "SPI", "electronics"],
+    "description": "Library to interface the MCP4132 digital potentiometer with Arduino/ESP32 for precise resistance control.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jjlondonoc/MCP4132-Arduino-Library"
+    },
+    "version": "1.0.0",
+    "exclude": "tests",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "authors": [
+        {
+            "name": "Juan Jose Londono",
+            "email": "jjlondonocarrillo@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "platforms": [
+        "atmelavr",
+        "espressif8266",
+        "espressif32",
+        "atmelsam",
+        "ststm32"
+    ],
+    "license": "MIT"
+}
