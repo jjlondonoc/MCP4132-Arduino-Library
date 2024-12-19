@@ -13,8 +13,8 @@ This example demonstrates the basic functionality of the MCP4132 library, includ
 - Checking and handling the shutdown mode.
 
 ### How to Use
-1. Open the example folder (`basic_usage`) in the Arduino IDE.
-2. Upload the `basic_usage.ino` file to your microcontroller.
+1. Open the example folder (`Basic_usage`) in the Arduino IDE.
+2. Upload the `Basic_usage.ino` file to your microcontroller.
 3. Open the Serial Monitor (Ctrl + Shift + M) at 9600 baud to interact with the example.
 4. Send the following commands to test functionality:
    - **`i`**: Increase resistance by one step.
